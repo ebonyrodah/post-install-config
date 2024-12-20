@@ -48,9 +48,8 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
   Use this URL to access the Admin or Agent Panel to configure and manage tickets.  
 - **End Users URL**: [http://localhost/osTicket](http://localhost/osTicket)  
   This is where customers can create and check tickets.
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -66,7 +65,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 - **Admin Panel**: For administrators to configure roles, permissions, users, and system settings.  
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -82,13 +81,12 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 2. Create a role, e.g., **Supreme Admin**.
 3. Assign permissions to define what agents with this role can do, like editing tickets or managing users.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
 </p>
 <br />
-
 
 
 ---
@@ -101,7 +99,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 3. Assign tickets to specific departments for better management.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -118,7 +116,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - Example: **Online Banking Team**, which includes agents from SysAdmins and Help Desk.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -137,7 +135,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - Check **"Require registration and login to create tickets."**
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -155,7 +153,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
      - **Jane** (Department: SysAdmins).  
      - **John** (Department: Support).  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -173,7 +171,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
      - **Karen**.  
      - **Ken**.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -192,7 +190,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
@@ -214,7 +212,7 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
      - **Other**.
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img 
 </p>
 <p>
 
