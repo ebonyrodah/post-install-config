@@ -48,13 +48,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
   Use this URL to access the Admin or Agent Panel to configure and manage tickets.  
 - **End Users URL**: [http://localhost/osTicket](http://localhost/osTicket)  
   This is where customers can create and check tickets.
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -64,13 +57,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 - **Agent Panel**: Used by agents to respond to tickets and manage assigned tasks.  
 - **Admin Panel**: For administrators to configure roles, permissions, users, and system settings.  
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -80,13 +66,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 1. Navigate to **Admin Panel -> Agents -> Roles**.
 2. Create a role, e.g., **Supreme Admin**.
 3. Assign permissions to define what agents with this role can do, like editing tickets or managing users.
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -98,13 +77,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - Example: **SysAdmins**, **Networking**, **Help Desk**.
 3. Assign tickets to specific departments for better management.
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -115,13 +87,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 2. Create teams to group agents from different departments for specific tasks.
    - Example: **Online Banking Team**, which includes agents from SysAdmins and Help Desk.
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -134,13 +99,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
 3. **To require user registration**:
    - Check **"Require registration and login to create tickets."**
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -152,13 +110,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - Example:  
      - **Jane** (Department: SysAdmins).  
      - **John** (Department: Support).  
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -170,13 +121,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - Example:
      - **Karen**.  
      - **Ken**.
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -189,13 +133,6 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
    - **Sev-B**: Grace Period = 4 hours, Schedule = 24/7.  
    - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
 
 
 ---
@@ -211,10 +148,3 @@ Here are the **Top 5 Post-Install Configuration Objectives** for osTicket:
      - **Password Reset**.
      - **Other**.
 
-<p>
-<img 
-</p>
-<p>
-
-</p>
-<br />
